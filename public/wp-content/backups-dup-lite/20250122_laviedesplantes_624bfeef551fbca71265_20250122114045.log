@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2025-01-22 11:41
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.11.2
+WORDPRESS:	6.7.1
+PHP INFO:	8.2.23 | SAPI: cgi-fcgi
+SERVER:		nginx/1.26.1 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 38MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:106 | filtered:0 | create:106
+FILTERED: []
+SQL CREATED: 20250122_laviedesplantes_624bfeef551fbca71265_20250122114045_database.sql
+SQL FILE SIZE: 7.81MB (8192184)
+SQL FILE TIME: 2025-01-22 11:41:20
+SQL RUNTIME: 1.71 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/Users/amand/Local Sites/la-vie-des-plantes/app/public
+ARCHIVE FILE: 20250122_laviedesplantes_624bfeef551fbca71265_20250122114045_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	384.57MB
+STATS:	Dirs 4,957 | Files 29,130
+SQL ADDED: 20250122_laviedesplantes_624bfeef551fbca71265_20250122114045_database.sql
+
+WARNING: Unable to zip files:
+FILE: [C:/Users/amand/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/V18/Errors/CustomerSkAdNetworkConversionValueSchemaErrorEnum/CustomerSkAdNetworkConversionValueSchemaError.php]
+FILE: [C:/Users/amand/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/V18/Resources/CustomerSkAdNetworkConversionValueSchema/SkAdNetworkConversionValueSchema/CoarseGrainedConversionValueMappings.php]
+FILE: [C:/Users/amand/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/V18/Resources/CustomerSkAdNetworkConversionValueSchema/SkAdNetworkConversionValueSchema/ConversionValueMapping.php]
+FILE: [C:/Users/amand/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/V18/Resources/CustomerSkAdNetworkConversionValueSchema/SkAdNetworkConversionValueSchema/Event/EventOccurrenceRange.php]
+FILE: [C:/Users/amand/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/V18/Resources/CustomerSkAdNetworkConversionValueSchema/SkAdNetworkConversionValueSchema/Event/RevenueRange.php]
+FILE: [C:/Users/amand/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/V18/Resources/CustomerSkAdNetworkConversionValueSchema/SkAdNetworkConversionValueSchema/FineGrainedConversionValueMappings.php]
+FILE: [C:/Users/amand/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/V18/Resources/CustomerSkAdNetworkConversionValueSchema/SkAdNetworkConversionValueSchema/PostbackMapping.php]
+FILE: [C:/Users/amand/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/V18/Resources/Recommendation/ShoppingMigrateRegularShoppingCampaignOffersToPerformanceMaxRecommendation.php]
+
+ZipArchive Object
+(
+    [lastId] => 34078
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 34079
+    [filename] => C:\Users\amand\Local Sites\la-vie-des-plantes\app\public\wp-content\backups-dup-lite\tmp\20250122_laviedesplantes_624bfeef551fbca71265_20250122114045_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 34078
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 143.9MB
+ARCHIVE RUNTIME: 40.10 sec.
+MEMORY STACK: 46MB
+building installer
+TEST DE COHÉRENCE D’ARCHIVE : RÉUSSITE
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 7.81MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 146.29MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 34,087
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 34,078
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 46.72 sec.
+PEAK PHP MEMORY USED: 54MB
+DONE PROCESSING => 20250122_laviedesplantes 2025-01-22 11:42
+
